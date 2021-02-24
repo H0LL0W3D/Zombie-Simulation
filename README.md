@@ -8,14 +8,14 @@ Lab 7: Zombie Sim, 2d arrays <br/>
 Simulate zombie "proximity" spread in two dimensional plane made out of arrays. <br/>
 <br/>
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ <br/>
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ <br/>
  2d matrix initially constructed <br/>
  (optional) initialize with specialized "immunity" spots <br/>
  initialize with "patent zero" (Randomized? User Based?) <br/>
  spread virus across in all directions (horizontal, vertical, diagonal) <br/>
  (optional) ignore "immune" values<br/>
  repeat until all values are either infected or immune <br/>
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ <br/>
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ <br/>
 
 
 * Base program structure by instructor *Melissa Holmes*
