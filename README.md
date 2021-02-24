@@ -8,12 +8,12 @@ Jacob Olson
 Simulate zombie "proximity" spread in two dimensional plane made out of arrays.
 
 /*****************************************************/
-2d matrix initially constructed
-(optional) initialize with specialized "immunity" spots
-initialize with "patent zero" (Randomized? User Based?)
-spread virus across in all directions (horizontal, vertical, diagonal)
-(optional) ignore "immune" values
-repeat until all values are either infected or immune
+- 2d matrix initially constructed
+- (optional) initialize with specialized "immunity" spots
+- initialize with "patent zero" (Randomized? User Based?)
+- spread virus across in all directions (horizontal, vertical, diagonal)
+- (optional) ignore "immune" values
+- repeat until all values are either infected or immune
 /*****************************************************/
 
 
