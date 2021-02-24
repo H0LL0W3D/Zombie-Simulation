@@ -29,10 +29,9 @@ repeat until all values are either infected or immune
 
 - NECESSARY: Design choice for how patent zero is chosen.
 - NECESSARY: Implimentation for method of choosing patent zero
--           Design choice for determining world dimensions
--           Implimentation for method of determining world dimensions
-- OPTIONAL:  reformat program to allow use of non-square world dimensions. (x != y)
--           Optimization for infection spread loop
--           Optimization for calculating number of loops for spreading
-
+- Design choice for determining world dimensions
+- Implimentation for method of determining world dimensions
+- Optimization for infection spread loop
+- Optimization for calculating number of loops for spreading
+- OPTIONAL: reformat program to allow use of non-square world dimensions. (x != y)
 
