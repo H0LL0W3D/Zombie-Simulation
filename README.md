@@ -21,8 +21,9 @@ Simulate zombie "proximity" spread in two dimensional plane made out of arrays. 
 * Base program structure by instructor *Melissa Holmes*
 * Methods and optimization by *Jacob Olson*
 * Assigned by instructor *Melissa Holmes* for lab for CSCI 152 java Class
-
-
+<br/>
+<br/>
+<br/>
 
 ## IMPLIMENTATION CONSIDERATIONS
 - NECESSARY: Design choice for how patent zero is chosen.
