@@ -19,19 +19,19 @@ repeat until all values are either infected or immune
 
 
 
--Base Structure by instructor Melissa Holmes
--Methods and optimization by Jacob Olson
--Assigned by instructor Melissa Holmes for lab for CSCI 152 java Class
+* Base program structure by instructor Melissa Holmes
+* Methods and optimization by Jacob Olson
+* Assigned by instructor Melissa Holmes for lab for CSCI 152 java Class
 
 
 
 #IMPLIMENTATION CONSIDERATIONS
 
--NECESSARY: Design choice for how patent zero is chosen.
--NECESSARY: Implimentation for method of choosing patent zero
+- NECESSARY: Design choice for how patent zero is chosen.
+- NECESSARY: Implimentation for method of choosing patent zero
 -           Design choice for determining world dimensions
 -           Implimentation for method of determining world dimensions
--OPTIONAL:  reformat program to allow use of non-square world dimensions. (x != y)
+- OPTIONAL:  reformat program to allow use of non-square world dimensions. (x != y)
 -           Optimization for infection spread loop
 -           Optimization for calculating number of loops for spreading
 
