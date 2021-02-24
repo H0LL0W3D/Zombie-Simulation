@@ -5,9 +5,13 @@ Lab 7: Zombie Sim, 2d arrays <br/>
 *Jacob Olson* <br/>
 24 / 02 / 21 <br/>
 <br/>
+## DESCRIPTION
 Simulate zombie "proximity" spread in two dimensional plane made out of arrays. <br/>
 <br/>
 
+
+
+## PSUEDO CODE
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ <br/>
  2d matrix initially constructed <br/>
  (optional) initialize with specialized "immunity" spots <br/>
